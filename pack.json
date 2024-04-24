@@ -1,10 +1,10 @@
 {
-  "name": "Pack Name",
-  "description": "Use this field to describe the pack.",
-  "author": "GitHubUsername",
+  "name": "FFXIV - Seven Hundred Seventy-Seven Whiskers",
+  "description": "Music for Dhoro Iloh from Final Fantasy XIV",
+  "author": "Rmojarro1",
   "version": "v1.0",
   "manifest_version": 2,
-  "music": false,
+  "music": true,
   "ignore": [],
   "mappings": {}
 }
